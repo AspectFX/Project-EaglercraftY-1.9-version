@@ -3,22 +3,16 @@ This project wil have the official Code of minecraft  1.9 and this respository w
 # Eaglercraft
 
 ### Note: we will be transitioning away from Eaglercraft being standalone 'free browser minecraft' to Eaglercraft being a bukkit/bungee plugin for servers to allow 'online access' to players who register with a command as their real online-mode Minecraft account on the server. Server owners can still elect to set `online-mode=false` in their server.properties to allow free login but now that's their legal screw up instead of mine'
-(note the Offical been Deleted)
-Eaglercraft Back!!! rewriten by Laxdude 
 
-![eaglercraft](https://cdn.discordapp.com/attachments/378764518081429506/964047481849643018/new_github_screenshot.png)
 
-### Official Demo URL: [https://g.eags.us/eaglercraft/](https://g.eags.us/eaglercraft/)
 
-### Download Locally: [stable-download/Offline_Download_Version.html](https://github.com/LAX1DUDE/eaglercraft/raw/main/stable-download/Offline_Download_Version.html)
+### Official Demo URL: (No link yet)
 
-(right click the link and press 'Save link as...' to download the file)
-
-**For any questions join the Discord server----->[https://discord.gg/KMQW9Uvjyq](https://discord.gg/KMQW9Uvjyq)**
+### Download Locally:(or Hmtl file)
 
 ## What is Eaglercraft?
 
-Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
+Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.9 servers with it through a custom proxy based on Bungeecord.
 
 ## How to make a server
 
@@ -74,18 +68,13 @@ Keep both the first and second terminal window you opened, just minimize them do
 42. If you're on mac or linux, navigate to the epkcompiler folder via `cd` and run `chmod +x run_unix.sh` and then `./run_unix.sh` to do this, then copy the same `javascript/assets.epk` to the `assets.epk` on your website
 
 ## Singleplayer?
-
-I successfully created Singleplayer for this version of eaglercraft and it works 100%, **but after many rounds of very thorough testing**, I found that TeaVM is unable to optimize certain aspects of terrain generation and world ticking as well as it can optimize the rendering for a multiplayer-only build. On an [i9-11900K]( https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-11900K+%40+3.50GHz&id=3904) a render distance of 'Tiny' struggles to pass 12 TPS while standing still, and drops below 1 TPS as soon as a couple new chunks have to be generated and trigger lighting updates. The playerbase of this game **will bother me every f\*\*king day if what I release as singleplayer is not perfect** and therefore singleplayer will remain private indefinetly and I will not answer any further questions about it or share the source code unless you are just looking to repurpose some of the base OS emulation code.
-
-**Minecraft Beta singleplayer will be ported sometime soon**
-
+(no singleplayer yet)
 ## How does it work?
 
-Eaglercraft uses the decompiled source code of the official build of Minecraft 1.5.2 direct from Mojang. It is decompiled by [MCP](http://www.modcoderpack.com/) and then recompiled to Javascript using [TeaVM](https://teavm.org/). Therefore it can join real Minecraft 1.5.2 servers, as it is really running Minecraft 1.5.2 in the browser. However, due to security limitations in modern browsers, it must use javascript Websocket objects for multiplayer instead of direct TCP connections to it's servers. A modified version of Bungeecord is included with Eaglercraft which accepts browser HTTP Websocket connections from Eaglercraft clients and unwraps the streams internally to regular TCP so they can be forwarded to regular Bukkit servers with no plugins. For graphics, a custom GPU compatibility layer allows Mojang's fixed function OpenGL 1.3 based rendering engine to render directly to an HTML5 WebGL 2.0 canvas on the page with minimal changes to the source, preserving the game's graphics to look exactly the same as desktop vanilla Minecraft 1.5.2.
+Eaglercraft uses the decompiled source code of the official build of Minecraft 1.5.2 direct from Mojang. It is decompiled by [MCP](http://www.modcoderpack.com/) and then recompiled to Javascript using [TeaVM](https://teavm.org/). Therefore it can join real Minecraft 1.9 servers, as it is really running Minecraft 1.9 in the browser. However, due to security limitations in modern browsers, it must use javascript Websocket objects for multiplayer instead of direct TCP connections to it's servers. A modified version of Bungeecord is included with Eaglercraft which accepts browser HTTP Websocket connections from Eaglercraft clients and unwraps the streams internally to regular TCP so they can be forwarded to regular Bukkit servers with no plugins. For graphics, a custom GPU compatibility layer allows Mojang's fixed function OpenGL 1.3 based rendering engine to render directly to an HTML5 WebGL 2.0 canvas on the page with minimal changes to the source, preserving the game's graphics to look exactly the same as desktop vanilla Minecraft 1.9 (comming soon)
 
 ## Issues?
-
-I got tired of closing duplicate 'how to maek sever' and 'add single player' issues almost every day so I disabled it because honestly I don't really care anymore, [join discord](https://discord.gg/KMQW9Uvjyq) if you've got an issue to report that you are confident can be backed up with source code
+(discord  channel will be Made a Later Date)
 
 ## EaglercraftBungee
 
