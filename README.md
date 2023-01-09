@@ -1,7 +1,7 @@
 # Project-EaglercraftY-1.9-version
 This project wil have the official Code of minecraft  1.9.4 and this respository will be updated
 (rip-off of 1.8.8 code)
-# EaglercraftV?
+# Eaglercraft?
 
 ### Note: we will be transitioning away from Eaglercraft being standalone 'free browser minecraft' to Eaglercraft being a bukkit/bungee plugin for servers to allow 'online access' to players who register with a command as their real online-mode Minecraft account on the server. Server owners can still elect to set `online-mode=false` in their server.properties to allow free login but now that's their legal screw up instead of mine'
 ![Preview-Build-of-1](https://user-images.githubusercontent.com/67106394/210432989-0d541ef1-bd39-4b90-9bb1-c0ffae1b9c3e.jpg)
