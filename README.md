@@ -185,4 +185,59 @@ All I really have to say is, tabs not spaces, and format the code to be like the
 
 
 ## Free Update List for New stuff
+May include
+1.new eletrya 
+2. New End cities
+3.adding a Warden
+4. new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
+Disc Fragment
+Echo Shard
+Frog Spawn Egg
+Frogspawn
+Goat Horn
+Jungle Boat with Chest
+Mangrove Boat
+Mangrove Boat with Chest
+Mangrove Button
+Mangrove Door
+Mangrove Fence
+Mangrove Fence Gate
+Mangrove Leaves
+Mangrove Log
+Mangrove Planks
+Mangrove Pressure Plate
+Mangrove Propagule
+Mangrove Roots
+Mangrove Sign
+Mangrove Slab
+Mangrove Stairs
+Mangrove Trapdoor
+Mangrove Wood
+Mud
+Mud Brick Slab
+Mud Brick Stairs
+Mud Brick Wall
+Mud Bricks
+Muddy Mangrove Roots
+Music Disc
+Oak Boat with Chest
+Ochre Froglight
+Packed Mud
+Pearlescent Froglight
+Recovery Compass
+Reinforced Deepslate
+Sculk
+Sculk Catalyst
+Sculk Shrieker
+Sculk Vein
+Spruce Boat with Chest
+Stripped Mangrove Log
+Stripped Mangrove Wood
+Tadpole Spawn Egg
+Verdant Froglight
+Warden Spawn Egg
+
+end of List
+
+
 
