@@ -3,7 +3,7 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 (rip-off of 1.8.8 code)
 # EaglercraftY?
 
-### Note: This IS EXPERMENTAL BUILD!!!!
+### Note: This IS EXPERMIMENTAL BUILD!!!!
 
 (i need to code Opengl to make it possible and try to port to Teavm to 1.9)
 ![Preview-Build-of-1](https://user-images.githubusercontent.com/67106394/210432989-0d541ef1-bd39-4b90-9bb1-c0ffae1b9c3e.jpg)
