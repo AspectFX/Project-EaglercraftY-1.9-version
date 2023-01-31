@@ -1,4 +1,5 @@
 # Project-EaglercraftY-1.9-version
+(PLEASE DONT SUE ME MICROSOFT!)
 This project wil have the official Code of minecraft  1.9.4 and this respository will be updated
 (rip-off of 1.8.8 code)
 # EaglercraftY?
