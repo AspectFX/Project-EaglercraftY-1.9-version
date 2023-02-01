@@ -147,7 +147,10 @@ Stripped Mangrove Log
 Stripped Mangrove Wood
 Tadpole Spawn Egg
 Verdant Froglight
-Warden Spawn Egg
+Warden Spawn Egg 
+nethrite Armor
+Netherite Tools
+Smithing Table
 
 end of List
 
