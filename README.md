@@ -12,7 +12,7 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 ![Preview-Build-of-1](https://user-images.githubusercontent.com/67106394/210432989-0d541ef1-bd39-4b90-9bb1-c0ffae1b9c3e.jpg)
 (this Snapshot of EaglercraftX will be EaglercraftY)
 >Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer.
-[Header](./[Your header image])
+![Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer.](./[](https://user-images.githubusercontent.com/67106394/210432989-0d541ef1-bd39-4b90-9bb1-c0ffae1b9c3e.jpg)])
 
 
 ### Official Demo URL: (No link yet)
