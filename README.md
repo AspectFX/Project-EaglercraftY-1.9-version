@@ -97,6 +97,24 @@ Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. 
 
 
 
+## A complete REVAMP OF Achivements (Photoshopped version)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Free Update List for New stuff
 May include
 1.new eletrya 
