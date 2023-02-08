@@ -7,7 +7,7 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 
 ### Note: This IS EXPERMIMENTAL BUILD!!!!
 
-[Header](./[Your header image])
+
 (i need to code Opengl to make it possible and try to port to Teavm to 1.9)
 ![New-splash-screen-logo](https://user-images.githubusercontent.com/67106394/217300380-db244dec-d40d-49d9-b4bf-f1c7b8d7a075.png)
 >Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
