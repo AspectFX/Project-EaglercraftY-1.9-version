@@ -98,6 +98,8 @@ Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. 
 
 
 ## A complete REVAMP OF Achivements (Photoshopped version)
+![revamped Achivement icons](https://user-images.githubusercontent.com/67106394/217616598-947f0622-48ab-4906-aca8-5817767c1785.jpg)
+
 
 
 
