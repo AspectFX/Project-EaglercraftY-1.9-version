@@ -150,6 +150,7 @@ Warden Spawn Egg
 nethrite Armor
 Netherite Tools
 Smithing Table
+Shield
 
 end of List
 
