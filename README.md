@@ -28,7 +28,8 @@ Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. 
 
 ### If replit is acceptable, you can use this:
 
-### (there No replit yet for 1.9 version)
+### (there heres replit for 1.9 version)
+https://replit.com/@luisfierro01/EaglercraftY
 
 ### Manual setup instructions:
 (COMING SOON)
