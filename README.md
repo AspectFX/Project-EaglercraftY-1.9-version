@@ -1,5 +1,6 @@
 # Project-EaglercraftY-1.9-version
-(PLEASE DONT SUE ME MICROSOFT!)
+(PLEASE DONT SUE ME Mojang/MICROSOFT!)
+AND PLEASE DONT PUT THIS (DMCA)
 
 Planned Release date:March 20th
 
