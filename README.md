@@ -36,3 +36,40 @@ Browser-modified portions of Minecraft 1.9's open-source dependencies
 
 
 Plugins for Minecraft servers to allow the eagler client to connect to them
+
+This repository does NOT contain:
+
+
+Any portion of the decompiled Minecraft 1.9 source code or resources
+
+
+Any portion of Mod Coder Pack and it's config files
+
+
+Data that can be used alone to reconstruct portions of the game's source code
+
+
+Code configured by default to allow users to play without owning a copy of Minecraft
+
+### Official Demo URL: (working on a website)
+
+### Download Locally:(or Hmtl file)
+
+
+## What is EAGLERCRAFTY?
+EAGLERCRAFTY is real Minecraft 1.9 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.9 servers with it through a custom proxy based on Bungeecord.(coming soon)
+
+## How to make a server
+If replit is acceptable, you can use this:
+https://replit.com/@luisfierro01/EaglercraftY
+there heres replit for 1.9 version
+
+### Manual setup instructions:
+1.first Get a fork of Replit
+
+2.second get Java 10 or Higher for this to work
+
+that is it
+
+## Mods?
+this going be implemented for the EaglecraftY 1.9.4
