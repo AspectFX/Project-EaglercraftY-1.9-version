@@ -58,8 +58,11 @@ EAGLERCRAFTY is real Minecraft 1.9 that you can play in any regular web browser.
 https://replit.com/@luisfierro01/EaglercraftY
 
 ### Manual setup instructions:
+
 1.first Get a fork of Replit
+
 2.second get Java 10 or Higher for this to work
+
 that is it
 
 ## Mods?
