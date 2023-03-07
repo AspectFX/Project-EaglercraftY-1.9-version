@@ -206,5 +206,7 @@ Shield
 
 end of List
 
+The goal of EAGLERCRAFTY was never to pirate the game, it was just to port it to the browser Please Mircosoft/mojang Accept it to perment 
+
 
 
