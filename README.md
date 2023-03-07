@@ -15,8 +15,8 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 ![New background](https://user-images.githubusercontent.com/67106394/222327411-689dd5e5-01c3-4455-8072-19dc2c307094.jpg)
 >Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
 
-# THIS REPOSITORY DOES NOT CONTAIN YOUR INTELLECTUAL PROPERTY
->FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
+# THIS REPOSITORY DOES NOT CONTAIN YOUR INTELLECTUAL PROPERTY 
+FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
 
 This repository contains:
 
@@ -43,15 +43,12 @@ Data that can be used alone to reconstruct portions of the game's source code
 
 Code configured by default to allow users to play without owning a copy of Minecraft
 
-
-
 ### Official Demo URL: (working on a website)
 
 ### Download Locally:(or Hmtl file)
 
 ## What is Eaglercraft?
-
-Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.9 servers with it through a custom proxy based on Bungeecord.
+EAGLERCRAFTY is real Minecraft 1.9 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.9 servers with it through a custom proxy based on Bungeecord.
 
 ## How to make a server
 
@@ -96,7 +93,8 @@ https://replit.com/@luisfierro01/EaglercraftY
 
 
 ## Contributing
-(COMING SOON)
+You can help me Develop it for made this possible
+
 
 
 
