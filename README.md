@@ -73,3 +73,35 @@ that is it
 
 ## Mods?
 this going be implemented for the EaglecraftY 1.9.4
+
+## Singleplayer?
+(no singleplayer yet and Coming soon)
+
+## How does it work?
+(coming soon)
+
+
+## Issues?
+(discord  channel will be Made a Later Date)
+
+
+## EaglercraftBungee
+(COMING SOON)
+
+
+
+### New Events:
+(COMING SOON)
+
+
+## Installing (detailed)
+(COMING SOON)
+
+
+## Compiling
+(COMING SOON)
+
+
+
+## Contributing
+You can help me Develop it for made this possible
