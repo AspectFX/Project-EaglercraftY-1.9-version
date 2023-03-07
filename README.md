@@ -8,14 +8,14 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 (rip-off of 1.8.8 code)
 # EaglercraftY?
 
-### Note: This IS EXPERMIMENTAL BUILD!!!!
+# Note: This IS EXPERMIMENTAL BUILD!!!!
 
 
 (i need to code Opengl to make it possible and try to port to Teavm to 1.9)
 ![New background](https://user-images.githubusercontent.com/67106394/222327411-689dd5e5-01c3-4455-8072-19dc2c307094.jpg)
 >Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
 
-# THIS REPOSITORY DOES NOT CONTAIN YOUR INTELLECTUAL PROPERTY 
+THIS REPOSITORY DOES NOT CONTAIN YOUR INTELLECTUAL PROPERTY 
 FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
 
 This repository contains:
