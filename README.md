@@ -126,10 +126,10 @@ You can help me Develop it for made this possible
 ## Free Update List for New stuff
 this the official List for it
 May include
-1.new eletrya 
-2. New End cities
-3.adding a Warden
-4. new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
+new elytra  
+New End cities
+adding a Warden
+new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
 Disc Fragment
 Echo Shard
 Frog Spawn Egg
