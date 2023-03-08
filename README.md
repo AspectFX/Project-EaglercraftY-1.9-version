@@ -202,3 +202,10 @@ End of the list
 The goal of EAGLERCRAFTY was never to pirate the game, it was just to port it to the browser Please Mircosoft/mojang Accept it to perment 
 
 # Extra Stuff (will be Modifyed)
+![New adding Servers Screen](https://user-images.githubusercontent.com/67106394/223791444-98703796-d7ec-49cc-b395-5df8f9820b4d.jpg)
+![New connection Screen](https://user-images.githubusercontent.com/67106394/223791447-70aaf86b-d9b8-4db5-a7ca-abd394cfff50.jpg)
+![New deletion Screen](https://user-images.githubusercontent.com/67106394/223791449-1aa58f64-ab93-4989-adba-34b3e63fc51c.jpg)
+![New Langauge Screen](https://user-images.githubusercontent.com/67106394/223791451-4745b192-312b-4f5c-af70-0690a78dc5c8.jpg)
+![New Profile Screen](https://user-images.githubusercontent.com/67106394/223791452-7f2d3922-4311-4960-bf60-34abda7427ea.jpg)
+![New Servers Screen](https://user-images.githubusercontent.com/67106394/223791453-42907665-d118-42d5-8d9c-a160c67dfca8.jpg)
+![New Servers Screens](https://user-images.githubusercontent.com/67106394/223791454-9ed99ba8-9162-4f0b-b66f-310a7d150e19.jpg)
