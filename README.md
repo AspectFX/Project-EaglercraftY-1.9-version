@@ -2,7 +2,7 @@
 (PLEASE DONT SUE ME Mojang/MICROSOFT!)
 AND PLEASE DONT PUT THIS (DMCA)
 
-Planned Release date:March 20th
+Planned Release date:March 30th (i dont have any time to work on and Extend the date Sorry!)
 
 This project wil have the official Code of minecraft  1.9.4 and this respository will be updated
 (rip-off of 1.8.8 code) Assets will be Changed so I cannot get DMCA!
@@ -82,7 +82,7 @@ this going be implemented for the EaglecraftY 1.9.4
 
 
 ## Issues?
-(discord  channel will be Made a Later Date)
+Join the official EaglercraftY Discord --->https://discord.gg/ETxUZcuhw8 
 
 
 ## EaglercraftBungee
@@ -105,3 +105,87 @@ this going be implemented for the EaglecraftY 1.9.4
 
 ## Contributing
 You can help me Develop it for made this possible
+
+
+## Snapshots of 1.9.4 version (in progress development build)
+
+
+
+
+
+## Free Update Snapshots of the Improved Gui (Photoshopped version)
+
+
+
+
+
+## A complete REVAMP OF Achivements (Photoshopped version)
+![revamped Achivement icons](https://user-images.githubusercontent.com/67106394/217616598-947f0622-48ab-4906-aca8-5817767c1785.jpg)
+
+
+## Free Update List for New stuff
+this the official List for it
+May include
+1.new eletrya 
+2. New End cities
+3.adding a Warden
+4. new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
+Disc Fragment
+Echo Shard
+Frog Spawn Egg
+Frogspawn
+Goat Horn
+Jungle Boat with Chest
+Mangrove Boat
+Mangrove Boat with Chest
+Mangrove Button
+Mangrove Door
+Mangrove Fence
+Mangrove Fence Gate
+Mangrove Leaves
+Mangrove Log
+Mangrove Planks
+Mangrove Pressure Plate
+Mangrove Propagule
+Mangrove Roots
+Mangrove Sign
+Mangrove Slab
+Mangrove Stairs
+Mangrove Trapdoor
+Mangrove Wood
+Mud
+Mud Brick Slab
+Mud Brick Stairs
+Mud Brick Wall
+Mud Bricks
+Muddy Mangrove Roots
+Music Disc
+Oak Boat with Chest
+Ochre Froglight
+Packed Mud
+Pearlescent Froglight
+Recovery Compass
+Reinforced Deepslate
+Sculk
+Sculk Catalyst
+Sculk Shrieker
+Sculk Vein
+Spruce Boat with Chest
+Stripped Mangrove Log
+Stripped Mangrove Wood
+Tadpole Spawn Egg
+Verdant Froglight
+Warden Spawn Egg 
+nethrite Armor
+Netherite Tools
+Smithing Table
+Shield
+End Rod
+Much more Coming!
+End of the list
+
+The goal of EAGLERCRAFTY was never to pirate the game, it was just to port it to the browser Please Mircosoft/mojang Accept it to perment 
+
+
+
+
