@@ -109,11 +109,9 @@ Join the official EaglercraftY Discord ---> https://discord.gg/RcHzBT6q7k
 You can help me Develop it for made this possible
 
 
-## Snapshots of 1.9.4 version (in progress development build)
-![New grass_Side for EaglercraftY 1 9 4](https://user-images.githubusercontent.com/67106394/223889770-ebe03977-126c-4479-b597-cf12d5b17c9b.jpg)
-![Netherite_boots](https://user-images.githubusercontent.com/67106394/223889808-c5f70395-8088-4839-8e85-1f1c98a16b81.png)
-![Netherite_chestplate](https://user-images.githubusercontent.com/67106394/223889811-c6947b8f-467f-4404-ad9b-bdada333a43f.png)
-![Netherite_helmet](https://user-images.githubusercontent.com/67106394/223889839-ca7e1077-0c1f-40d0-a376-8af6a15ea8c0.png)
+## Snapshots of 1.9.4 version (in progress development build) Assets (coming soon)
+
+
 
 
 
