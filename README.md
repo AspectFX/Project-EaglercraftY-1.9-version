@@ -84,7 +84,7 @@ this going be implemented for the EaglecraftY 1.9.4
 
 
 ## Issues?
-Join the official EaglercraftY Discord --->https://discord.gg/ETxUZcuhw8 
+Join the official EaglercraftY Discord ---> https://discord.gg/RcHzBT6q7k
 
 
 ## EaglercraftBungee
