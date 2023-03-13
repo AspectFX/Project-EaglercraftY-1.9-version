@@ -15,6 +15,7 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 
 
 Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
+This is photoshopped BY A 15 Year old teenager!
 
 THIS REPOSITORY DOES NOT CONTAIN YOUR INTELLECTUAL PROPERTY 
 FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
