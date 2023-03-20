@@ -3,6 +3,9 @@
 AND PLEASE DONT PUT THIS (DMCA)
 
 Planned Release date:April 30th (i dont have any time to work on and Extend the date Sorry! Changed again)
+THIS NOT MADE BY A 9 YEARS OLD KID!!
+( i am a teenager my real age is 15 years old)
+that is the proof 
 
 Working on EaglercraftY
 This project wil have the official Code of minecraft  1.9.4 and this respository will be updated
