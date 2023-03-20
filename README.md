@@ -4,6 +4,8 @@ This is a semi-abandoned project based on LAX1DUDE's EaglercraftX project.
 This time, this will actually be a decent project. Not a hoax, not a fake claim.
 <br>
 Source code will be developed by people other than the original creator.
+<br>
+* This is old, moved to https://github.com/Team-Developers-EaglercraftY-194/eaglercraftY1.9
 
 ## Owner
 [Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
