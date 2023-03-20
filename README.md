@@ -4,4 +4,5 @@ This is a semi-abandoned project based on LAX1DUDE's EaglercraftX project.
 This time, this will actually be a decent project. Not a hoax, not a fake claim.
 
 ## Developers
-!()[https://github.com/]
+!(IceeFox)[https://github.com/IceeFox]
+!(InvalidTest)[https://github.com/FailedCoder23]
