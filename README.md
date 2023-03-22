@@ -1,2 +1,2 @@
-# 2 HARD RESET
+# Second HARD RESET
 
